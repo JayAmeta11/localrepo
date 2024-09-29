@@ -16,5 +16,5 @@ int main(){
     
  int   sur = josephus(n,2) + 1;
  printf("survivor is %d ",sur);
-    return 0;
+    return 1;
 }
